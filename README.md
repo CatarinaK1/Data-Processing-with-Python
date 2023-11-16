@@ -13,7 +13,7 @@ The following Python libraries were used to help in the analysis and create data
 
 If it is not already installed, download and install Python from the official website (https://www.python.org/).  
 
-### Jupyter Notebook  
+## Jupyter Notebook  
  You should have Jupyter Notebook installed. If you don't have it, you can install it using Python's package manager, pip, with the following command:  
  ```
 pip install notebook
